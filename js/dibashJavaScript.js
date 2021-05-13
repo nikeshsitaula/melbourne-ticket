@@ -7,7 +7,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
 
-    $('#shake_01').effect ('shake',{times:95}, 7000);
+    $('#shake_01').effect ('shake',{times:2}, 7000);
 });
 
 // $(document).ready(function(){
